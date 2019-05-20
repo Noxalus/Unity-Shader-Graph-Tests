@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-public class FireMaterial : MonoBehaviour
+public class ChangeImageMaterial : MonoBehaviour
 {
     public Image Image;
     public Material Material;
